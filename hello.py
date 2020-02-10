@@ -1,4 +1,1 @@
- Second
-print("Hello amazing World")
-print("Hello Wonderful World")
- master
+ print("Hello amazing World")
