@@ -1,1 +1,1 @@
- print("Hello amazing World")
+ print("Hello World")
